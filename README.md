@@ -1,6 +1,6 @@
 ### BOAS VINDAS AO MEU PERFIL 
 
- Meu nome é Lucas eduardo assis 
+ Meu nome é Lucas assis 
 
  - Estou etudando na .[Alura].
  - Estou me desenvolvendo na linguagem JavaScript
